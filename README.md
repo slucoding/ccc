@@ -2,7 +2,7 @@
 
 ### List of actions.
 #### Part 1. Preparation.
-##### Hash: * here will be the hash of the last commit *.
+##### Hash: e74d85ef519a5b0f9efc1dc69ed30e6e4d5d5572.
 
 --------------------------------------------------
 
